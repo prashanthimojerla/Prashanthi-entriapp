@@ -1,0 +1,515 @@
+.navbar{
+    height: 65px;
+    width: 97vw;
+    /*background-color: red;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px 0px 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+#logo{
+    height: 35px;
+}
+
+.bluebutton{
+    height: 35px;
+    width: 150px;
+    color: white;
+    border-color: #59A1C9;
+    background-color: #59A1C9;
+    box-shadow: none;
+    font-weight: bold;
+    border-radius: 20px;
+    border: none;
+}
+
+.hero-section{
+    height: 90vh;
+    width: 95%;
+   /* background-color: red;*/
+    background-image: url(https://cloudfront.entri.app/static/north_south/img/landing_2022/wave.svg);
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-text{
+    height: 90%;
+    width: 40%;
+    /*background-color: yellow;*/
+}
+
+.hero-animation{
+    height: 90%;
+    width: 40%;
+    /*background-color: aqua;*/
+    background-image: url(https://cdn.dribbble.com/userupload/12609824/file/original-0ebf1e6c9a64bfe1510cf8d72de99185.gif);
+    background-size: contain;
+}
+
+.hero-h1{
+    font-weight: 800;
+    font-size: 56px;
+    font-family: sans-serif;
+}
+
+.hero-p{
+    font-weight: 500;
+    font-size: 35px;
+    padding-right: 60px;
+    font-family: sans-serif;
+    font-family: black;
+
+}
+
+.prashanthi{
+    height: 60vh;
+    width: 95vw;
+    /*background-color: red;*/
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+
+}
+
+.boxes{
+    height: 90%;
+    width: 15.5%;
+    border: 1px solid black;
+    justify-content: space-evenly;
+}
+
+#imgback1{
+    background-color: #FFD428;
+    width: 100%;
+}
+
+#imgback2{
+    background-color: #59A1C9;
+    width: 100%;
+    height: 55%;
+}
+
+#imgback3{
+    background-color: #008A6F;
+    padding-right: 22px;
+}
+
+#imgback4{
+    background-color: #59A1C9;
+    padding-right: 34.5px;
+}
+
+.centered-text{
+    text-align: center;
+}
+
+.cth1{
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 125%;
+    color: #212121;
+    text-align: center;
+    font-family: /*'Segoe UI', Tahoma,*/ Geneva, Verdana, sans-serif;
+}
+
+.ctp{
+    font-family: "inter",sans-serif;
+}
+
+.text{
+    height: 100px;
+    width: 80%;
+    font-size: 0.75rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-left: 10px;
+
+}
+
+.name{
+    font-size: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#logo4{
+    text-align: center;
+    padding-bottom: 15px;
+    background-color: #FFD428;
+    padding-right: 43.5px;
+    
+}
+
+.flexible-plans{
+    height: 90vh;
+    width: 98vw;
+    background-color: #F1F1F1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+} 
+
+
+
+.fpc{
+    height: 75%;
+    width: 30%;
+    /*border: 1px solid black;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    background-color: #FFFFFF;
+    border-radius: 20PX;
+}
+
+.fph1{
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 125%;
+    color: #212121;
+    text-align: center;
+    padding: 30px;
+    background-color: #FAFAFA;
+}
+
+
+.fpch1{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #59A1C9;
+  
+}
+
+.fpch12{
+    height: 48px;
+    vertical-align: middle;
+    font-family: ""inter",sans-serif;";
+}
+
+#logo2{
+    height: 48px;
+    vertical-align: middle;
+    font-family: "inter","sans-serif";
+    padding: 10px;
+    
+}
+
+
+.fpch13{
+    font-weight: 800;
+    font-size: 1.50rem;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    color: #0033A0;
+    font-style: bold;
+    padding: 5px;
+}
+
+.recognitions{
+    height: 70vh;
+    background-color: #EAF1F5;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.recognitionsb1{
+    height: 90px;
+    width: 80%;
+    /*background-color: rebeccapurple;*/
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around
+
+}
+
+.recognitionsb1>img{
+    height: auto;
+}
+
+.recognitionsb2{
+    height: 80px;
+    width: 60%;
+    /*background-color: rgb(221, 15, 170);*/
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50px;
+
+}
+
+.recognitionsb2>img{
+    height: auto;
+}
+
+
+.blackbox{
+    height: 990px;
+    width: 100%;
+    background-color: #2E2D3A;
+}
+
+#h2text{
+    text-align: center;
+    font-size: 20px;
+    color: azure;
+    font-family: sans-serif;
+    margin: auto;
+    padding-top: 50px;
+}
+
+#h5text{
+    font-size: 20px;
+    font-weight: 300;
+    font-family: sans-serif;
+    color: #ffff;
+    text-align: center;
+}
+
+@mediascreen{
+    min-width: 0px;
+    max-width: 700px;
+}
+
+#img1{
+    text-align: center;
+    margin-top: 50px;
+    
+   
+}
+
+#img1num{
+    text-align: center;
+    vertical-align: middle;
+    background: linear-gradient(45deg, #357CA5 14.64%, #73ECFF 85.36%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-top: 1.5rem;
+    font-family: "Inter" sans-serif;
+}
+
+
+#imgtext{
+    text-align: center;
+    vertical-align: middle;
+    background: linear-gradient(45deg, #357CA5 14.64%, #73ECFF 85.36%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-top: 0;
+   /* margin-bottom: 1rem;*/
+    margin: auto;
+    font-family: "Inter" sans-serif;
+   /* padding-top: 5px;*/
+}
+
+.group1{
+    display: flex;
+    gap: 40px;
+    justify-content: space-evenly;
+    margin: 50px 120px 10px 90px;
+    padding: 0px 90px 0px 90px; 
+}
+
+
+#btn{
+    display: flex;
+    gap: 30px;
+
+}
+
+#btn>h3{
+    color: aliceblue;
+  
+}
+
+
+#bmn{
+    display: flex;
+    gap: 30px;
+  
+}
+
+#bmn>h3{
+   color: aliceblue;
+    
+}
+
+#bkn{
+    display: flex;
+    gap: 30px;
+}
+
+#bkn>h3{
+    color: aliceblue;
+}
+
+.group2{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px 90px 10px 90px;
+    padding: 0px 90px 0px 90px;
+}
+
+#cbn{
+    display: flex;
+    gap: 30px;
+}
+
+#cbn>h3{
+    color: aliceblue;
+}
+
+#cmd{
+    display: flex;
+    gap: 30px;
+}
+
+#cmd>h3{
+    color: aliceblue;
+}       
+
+.lastbox{
+    height: 60vh;  
+    width: 100vw;
+   /* background-color: darkorange;*/
+    margin: auto;
+    text-align: center;
+    
+    
+   
+}
+
+.lbh1{
+    font-size: 35px;
+   font-family: Georgia;
+   text-align: center;
+   justify-content: center;
+   padding-top: 90px;
+   
+}
+
+
+.lbp1{
+    
+    color: #6c757d !important;
+    text-align: center;
+  
+}
+
+.lbp2{
+    padding-top: 10px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 3rem !important;
+   
+}
+
+.indemand{
+    height: 90vh;
+   /* background-color: aqua;*/
+    padding-top: 50px;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: auto;
+    display: flex;
+    
+}
+
+
+.idh1{
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 125%;
+    color: #212121;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    letter-spacing: 1px;
+    align-items: center;
+   
+}
+
+.idp{
+    text-align: center;
+    color: #6C83A5;  
+    
+
+}
+
+.mprashanthi{
+    height: 70vh;
+    width: 90vw;
+   /* background-color: red;*/
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    margin: auto;
+    border-radius: 10px;
+    overflow-x: scroll;
+    gap: 30px;
+   
+   
+
+}
+
+.mpboxes{
+    height: 150px;
+    width: 60%;
+   /* border: 1px solid black;*/
+    justify-content: space-around;
+    display: flex;
+    border-radius: 20px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: "Inter" , sans serif;
+    
+
+   
+}
+
+.indemandtext{
+    padding: 0px 10px;
+    margin-top: 16px;
+    font-weight: 600;
+    font-size: 18px;
+    height: 45px;
+    font-family: "inter", sans serif;
+    letter-spacing: 1px;
+   
+    
+}
+
+
+
+
+
+
+
+
+
+
